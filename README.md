@@ -1,9 +1,7 @@
 # Olympic-Games-Analytics-in-Apache-Spark
 The repository contains the notebook and data used to extract insights from recorded Olympic games history
 
-Live Notebook:
-
-[![Live Databricks Notebook Link](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white)](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/3218115984742030/1033550674518766/423405007010900/latest.html "Live Notebook")
+[![Live Databricks Notebook Link](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white&label=Live%20Notebook&labelColor=252d31)](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/3218115984742030/1033550674518766/423405007010900/latest.html "Live Notebook")
 
 ## prerequisites
 - Databricks account
